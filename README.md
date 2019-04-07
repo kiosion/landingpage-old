@@ -1,3 +1,4 @@
 # maximdietz.github.io
 
-Hi, welcome to my github!
+Welcome to my Github repo!
+There's not much here, visit https://maximdietz.com/ to view my website properly!
